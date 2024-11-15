@@ -2,43 +2,43 @@
 
 <h1 align="center">Hi 👋, I'm Kalpesh Kulye</h1>
 
-- ⚡ Expert in Android app development using Kotlin/Java
-- 🔭 Currently working on Flutter
-- 🌱 Interested to work on KMP and Compose
-- 📫 How to reach me: kulyekalpesh@gmail.com
-  
-### Connect with me:
+### About Me
+
+- ⚡ 7+ years of expertise in mobile development, specializing in Kotlin and proficient in MVVM architecture.
+- 🔭 For the past year, I've been specializing in Flutter
+- 🌱 Eager to transition back to Kotlin and Kotlin Multiplatform(KMP) development to harness its capabilities for seamless cross-platform solutions.
+- 📧 [kulyekalpesh@gmail.com](mailto:kulyekalpesh@gmail.com)  
+
+### Connect with Me
+
 <div id="badges">
   <a href="https://github.com/kalpeshk95">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/kalpesh-kulye-198a83108/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://stackoverflow.com/users/9229521/kalpesh-kulye">
+  <a href="https://stackoverflow.com/users/9229521/kalpesh-kulye">
     <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge"/>
   </a>
-   <a href="https://fb.com/kalpesh.kulye">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://medium.com/@kulyekalpesh">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 
-### Languages and Tools:
+### Languages and Tools
+
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,firebase,github,bitbucket,postman,figma,sqlite,vscode)](https://skillicons.dev)
+
+### GitHub Stats
+
 ![Kalpesh Kulye's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalpeshk95&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshk95&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpeshk95&layout=compact&theme=dark)
 
-<!--
-**kalpeshk95/kalpeshk95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Certification
 
-Here are some ideas to get you started:
+- **Android App Development** from Aptech Institute
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Feel free to reach out to me at [kulyekalpesh@gmail.com](mailto:kulyekalpesh@gmail.com) for any collaboration or queries.
