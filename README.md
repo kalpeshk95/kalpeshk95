@@ -1,13 +1,12 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Kalpesh Kulye</h1>
 
 ### About Me
 
-- ⚡ 7+ years of expertise in mobile development, specializing in Kotlin and proficient in MVVM architecture.
-- 🔭 For the past year, I've been specializing in Flutter
-- 🌱 Eager to transition back to Kotlin and Kotlin Multiplatform(KMP) development to harness its capabilities for seamless cross-platform solutions.
-- 📧 [kulyekalpesh@gmail.com](mailto:kulyekalpesh@gmail.com)  
+- ⚡ 7+ years of experience in mobile development, specializing in **Kotlin** and **Flutter** with expertise in **MVVM architecture**.  
+- 🔭 For the past **2 years**, I have been actively working with **Flutter**, building high-performance cross-platform applications.  
+- 💳 Experienced in developing **FinTech applications**, ensuring security, performance, and seamless user experience.  
+- 🌱 Eager to continue growing in **Flutter** while leveraging **Kotlin** and **Kotlin Multiplatform (KMP)** for scalable cross-platform solutions.  
+- 📧 [kulyekalpesh@gmail.com](mailto:kulyekalpesh@gmail.com)
 
 ### Connect with Me
 
