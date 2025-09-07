@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-- 💼 **Senior Mobile Developer** with 7+ years of experience building robust Android and cross-platform applications.
+- 💼 **Senior Mobile Developer** with 8 years of experience building robust Android and cross-platform applications.
 - 🧠 Specializing in **Kotlin**, **Flutter**, and **MVVM architecture** with strong experience in **architecting scalable mobile applications**.
 - 🔍 Passionate about clean architecture, modular codebases, and writing maintainable, testable code.
 - 🔄 Currently working with **Flutter** for the past 2 years, delivering high-performance apps across Android and iOS platforms.
